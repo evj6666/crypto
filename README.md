@@ -1,4 +1,4 @@
-# React Project - FoodyZone
+# React Project - ReactCrypto
 
 ![Uploading crypto.png…]()
 
