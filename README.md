@@ -1,6 +1,7 @@
 # React Project - ReactCrypto
 
-![Uploading crypto.png…]()
+<img width="731" alt="crypto" src="https://github.com/user-attachments/assets/72d9654d-9f96-4bdb-aebb-e48a91229b88">![Uploading crypto.png…]()
+
 
 ## Available Scripts
 
